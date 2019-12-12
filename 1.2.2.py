@@ -4,8 +4,8 @@ import turtle as trtl
 import random
 import leaderboard as lb
 #-----game configuration----
-shape = "circle"
-size = 4
+shape = "square"
+size = 2
 color = "brown"
 score = 0
 
